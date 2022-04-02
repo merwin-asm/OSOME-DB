@@ -1,4 +1,4 @@
-from OSOME_DB import OsomeDB
+from OsomeDB import OsomeDB
 
 # Create/Get DB
 DB = OsomeDB("School")
