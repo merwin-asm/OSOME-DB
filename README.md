@@ -3,6 +3,8 @@
 
 Make And Manage DBs in Python.
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=meriwn-osome-db&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+
 
 
 ## Installation
